@@ -1,0 +1,356 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: screen-design-final (outline).ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: points
+Artboard Dimensions: 1229.2963 pt x 637.7855 pt
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+spot 01 (RGB)
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Funnier (TrueType)
+HaldaMJ (TrueType)
+HaldaMJ Bold (TrueType)
+Myriad Pro (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\screen 3.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2583K, 613 by 1079 pixels
+Dimensions: 613 by 1079 points 
+Resolution: 72 by 72 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\screen 3.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2583K, 613 by 1079 pixels
+Dimensions: 613 by 1079 points 
+Resolution: 72 by 72 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\screen2.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2583K, 613 by 1079 pixels
+Dimensions: 613 by 1079 points 
+Resolution: 72 by 72 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\screen 3.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2583K, 613 by 1079 pixels
+Dimensions: 613 by 1079 points 
+Resolution: 72 by 72 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\screen 3.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2583K, 613 by 1079 pixels
+Dimensions: 613 by 1079 points 
+Resolution: 72 by 72 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\screen 3.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2583K, 613 by 1079 pixels
+Dimensions: 613 by 1079 points 
+Resolution: 72 by 72 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\screen 3.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2583K, 613 by 1079 pixels
+Dimensions: 613 by 1079 points 
+Resolution: 72 by 72 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\screen 3.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2583K, 613 by 1079 pixels
+Dimensions: 613 by 1079 points 
+Resolution: 72 by 72 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\lailai mojnu.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 599K, 341 by 450 pixels
+Dimensions: 357.16 by 471.325 points 
+Resolution: 68.742 by 68.742 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\romio.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 180K, 192 by 240 pixels
+Dimensions: 267.516 by 334.395 points 
+Resolution: 51.675 by 51.675 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\salim.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 564 by 443 pixels
+Dimensions: 264.573 by 207.811 points 
+Resolution: 153.485 by 153.485 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\momtaz.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 11640K, 1490 by 2000 pixels
+Dimensions: 445.783 by 598.366 points 
+Resolution: 240.655 by 240.655 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\himu.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 1875K, 800 by 600 pixels
+Dimensions: 213.166 by 159.874 points 
+Resolution: 270.213 by 270.213 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\screen2.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2583K, 613 by 1079 pixels
+Dimensions: 613 by 1079 points 
+Resolution: 72 by 72 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\screen 3.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2583K, 613 by 1079 pixels
+Dimensions: 613 by 1079 points 
+Resolution: 72 by 72 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\screen 3.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2583K, 613 by 1079 pixels
+Dimensions: 613 by 1079 points 
+Resolution: 72 by 72 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\screen2.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2583K, 613 by 1079 pixels
+Dimensions: 1231.293 by 2167.317 points 
+Resolution: 35.845 by 35.845 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\lailai mojnu.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 599K, 341 by 450 pixels
+Dimensions: 357.16 by 471.325 points 
+Resolution: 68.742 by 68.742 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\screen 3.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2583K, 613 by 1079 pixels
+Dimensions: 613 by 1079 points 
+Resolution: 72 by 72 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\davdas.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 3261K, 773 by 1080 pixels
+Dimensions: 280.202 by 391.486 points 
+Resolution: 198.628 by 198.628 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\lailai mojnu.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 599K, 341 by 450 pixels
+Dimensions: 357.16 by 471.325 points 
+Resolution: 68.742 by 68.742 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\screen 3.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2583K, 613 by 1079 pixels
+Dimensions: 613 by 1079 points 
+Resolution: 72 by 72 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\lailai mojnu.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 599K, 341 by 450 pixels
+Dimensions: 357.16 by 471.325 points 
+Resolution: 68.742 by 68.742 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\screen 3.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2583K, 613 by 1079 pixels
+Dimensions: 613 by 1079 points 
+Resolution: 72 by 72 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\lailai mojnu.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 599K, 341 by 450 pixels
+Dimensions: 357.16 by 471.325 points 
+Resolution: 68.742 by 68.742 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\screen 3.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2583K, 613 by 1079 pixels
+Dimensions: 613 by 1079 points 
+Resolution: 72 by 72 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\lailai mojnu.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 599K, 341 by 450 pixels
+Dimensions: 357.16 by 471.325 points 
+Resolution: 68.742 by 68.742 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\screen 3.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2583K, 613 by 1079 pixels
+Dimensions: 613 by 1079 points 
+Resolution: 72 by 72 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\lailai mojnu.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 599K, 341 by 450 pixels
+Dimensions: 357.16 by 471.325 points 
+Resolution: 68.742 by 68.742 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\screen 3.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2583K, 613 by 1079 pixels
+Dimensions: 613 by 1079 points 
+Resolution: 72 by 72 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\lailai mojnu.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 599K, 341 by 450 pixels
+Dimensions: 357.16 by 471.325 points 
+Resolution: 68.742 by 68.742 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\screen 3.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2583K, 613 by 1079 pixels
+Dimensions: 613 by 1079 points 
+Resolution: 72 by 72 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\lailai mojnu.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 599K, 341 by 450 pixels
+Dimensions: 357.16 by 471.325 points 
+Resolution: 68.742 by 68.742 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\screen 3.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2583K, 613 by 1079 pixels
+Dimensions: 613 by 1079 points 
+Resolution: 72 by 72 pixels per inch
+
+
+I:\Shafran\Za 'n zee\february\app\screen-design-final (outline)_Folder\Links\screen2.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2583K, 613 by 1079 pixels
+Dimensions: 1231.293 by 2167.317 points 
+Resolution: 35.845 by 35.845 pixels per inch
